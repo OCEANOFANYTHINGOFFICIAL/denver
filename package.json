@@ -1,0 +1,25 @@
+{
+  "name": "denver",
+  "version": "1.0.0",
+  "description": "This Is A Inbuilt Github Bot In J.A.R.V.I.S",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OCEANOFANYTHINGOFFICIAL/denver.git"
+  },
+  "author": "OCEAN OF ANYTHING",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OCEANOFANYTHINGOFFICIAL/denver/issues"
+  },
+  "homepage": "https://github.com/OCEANOFANYTHINGOFFICIAL/denver#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.45.1"
+  }
+}
